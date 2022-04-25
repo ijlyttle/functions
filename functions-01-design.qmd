@@ -1,0 +1,30 @@
+---
+title: "Functions Session 1: Design"
+author: "Ian Lyttle"
+format: revealjs
+---
+
+## Function design
+
+Tidyverse strives to present a consistent interface
+
+:::{.fragment}
+*How do they do it?*
+:::
+
+:::{.fragment}
+<hr/>
+By the end of this session, you will be able to:
+:::
+ 
+:::{.incremental}
+- distinguish a pure function from a function with side effects
+- name and order functions and parameters
+- recognize type-stable functions and their importance
+:::
+
+## Pure functions vs. side effects
+
+## Naming and ordering
+
+## Type stability
